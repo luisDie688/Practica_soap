@@ -1,0 +1,16 @@
+{
+    "name": "servicios-soap",
+    "version": "1.0.0",
+    "description": "Servicios SOAP con Node.js y Express",
+    "main": "src/server.js",
+
+    "scripts": {
+        "start": "node src/server.js"
+    },
+
+    "dependencies": {
+        "express": "^5.3.0",
+        "soap": "^1.14.0"
+    }
+}
+

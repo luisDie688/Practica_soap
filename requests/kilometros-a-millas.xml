@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<soapenv:Envelope
+    xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:con="http://ejemplo.com/conversiones">
+
+    <soapenv:Header/>
+
+    <soapenv:Body>
+
+        <con:KilometrosAMillas>
+
+            <con:kilometros>10</con:kilometros>
+
+        </con:KilometrosAMillas>
+
+    </soapenv:Body>
+
+</soapenv:Envelope>
